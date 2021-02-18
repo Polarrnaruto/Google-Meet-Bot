@@ -3,7 +3,7 @@ Spam any google meet class
 
 <h3>Steps for use: </h3>
 <ol style="margin-bottom:10px;">
-<li>Click <b>`</b> to set number of bots wanted</li><br>
+<li>Click <b>~</b> on the top left of your keyboard to set number of bots wanted</li><br>
 <li>Enter google meets link, the one you want spammed</li><br>
 <li>Confirm link and bot count</li><br>
 <li>Bot your class, annoy your teacher, enjoy!</li><br>
