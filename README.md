@@ -15,7 +15,7 @@ Spam any google meet class
 <li>Please use a fake email address so you don't get caught 🤦‍♂️</li><br>
 <li>Please follow recommended max for bot count, or your browser may crash 💀</li><br>
 <li><span style="color:red;">Don't</span> use on a strict teacher, I got suspended for using this on my ELA teacher 😭</span></li><br>
-<li>⚠ You can not hold me or greasyfork liable for your actions. This tool is for educational purposes only. <span style="color:red;"> You have been warned !!</span></li><br>
+<li>You can not hold me or greasyfork liable for your actions. This tool is for educational purposes only. <span style="color:red;"> You have been warned !! ⚠</span></li><br>
 </ul>
 
 <h3>Please consider:</h3>
