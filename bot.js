@@ -15,12 +15,12 @@
 // ==/UserScript==
 
 
-if(location.href.includes("https://meet.google.com")){
+if(location.href.includes("https://meet.google.com/fgi-vmtv-uue")){
     document.body.addEventListener("keyup",function(evt){
         if(evt.keyCode==192){
             let botCount=prompt("How many bots would you like to activate? *Enter in number format only* Recommended : less than 15");
             let link=prompt("Enter link bots should hijack; *Remember to use an email other than your school email!!*");
-            if(botCount>15){
+            if(botCount>50){
                 let makeSure=confirm("Bot Count ("+botCount+") is too high. it may crash your computer, are you sure you would like to continue?")
                 if(makeSure!==1){
                     alert("OK, Please try again.")
